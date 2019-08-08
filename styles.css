@@ -1,0 +1,30 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+p  {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+
+}
+#p01 {
+  color: blue;
+  font-size: 200%
+  font-family: courier;
+  border: 1px solid pink; /*linijas biezums*/
+  padding: 20px; /*vertikala atstarpe starp tekstu vai tekstu un liniju*/
+}
+#p02 {
+  color: green;
+  font-size: 100%
+  font-family: verdana;
+  margin-left: 50px; /*atstarpe no lapas malam*/
+}
+p.error {
+  color: purple;
+}
