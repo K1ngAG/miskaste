@@ -1,6 +1,28 @@
 body {
   background-color: powderblue;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
+
+#pscst{ /*VIRSRAKSTS*/
+  color: black;
+  text-align: center;
+  font-size: 200%;
+  line-height: normal;
+}
+
+#psid{ /*servisa id numurs*/
+  color:black;
+  text-align: right;
+}
+
+
+
+
+
+
+/*paraugi*/
 h1 {
   color: blue;
   font-family: verdana;
@@ -10,8 +32,8 @@ p  {
   color: red;
   font-family: courier;
   font-size: 160%;
-
 }
+
 #p01 {
   color: blue;
   font-size: 200%
