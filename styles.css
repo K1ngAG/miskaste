@@ -1,23 +1,62 @@
 body {
   background-color: powderblue;
-  margin-top: 20px;
-  margin-left: 50px;
-  margin-right: 50px;
+
+}
+hr{
+  border-width: 2px;
+  border-color: black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#plogo{ /*logo*/
+  text-align: left;
+  margin-left: -65px;
+  margin-top: 10px;
 }
 
 #pscst{ /*VIRSRAKSTS*/
   color: black;
   text-align: center;
-  font-size: 200%;
-  line-height: normal;
+  font-size: 180%;
+  line-height: 30px;
+  margin-right: -100px;
+  margin-top: 10px;
 }
 
 #psid{ /*servisa id numurs*/
   color:black;
   text-align: right;
+  margin-right: -50px;
+  margin-top: 10px;
 }
 
-
+#pbq{ /*sviitrkods*/
+  color:black;
+  text-align: right;
+  line-height: -1px;
+  font-size: 80%;
+}
+#pki{
+  text-align: left;
+  color:black;
+  font-size: 60%;
+}
+#pri{
+  color:black;
+  text-align: left;
+  margin-left: 350px;
+  font-size: 60%;
+}
+#problemas{
+  color:black;
+  font-size: 60%;
+}
+#problemas2{
+  color:black;
+  font-size: 60%;
+  margin-left: 200px;
+}
 
 
 
@@ -27,11 +66,6 @@ h1 {
   color: blue;
   font-family: verdana;
   font-size: 300%;
-}
-p  {
-  color: red;
-  font-family: courier;
-  font-size: 160%;
 }
 
 #p01 {

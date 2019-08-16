@@ -13,5 +13,6 @@ use Dompdf\Dompdf;
 $dompdf = new DOMPDF();  //if you use namespaces you may use new \DOMPDF()
 $html = file_get_contents("index.html");
 $dompdf->loadHtml($html);
+$dompdf->setPaper('A4', 'portrait');
 $dompdf->render();
 $dompdf->stream("sample.pdf", array("Attachment"=>0));
