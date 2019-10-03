@@ -57,9 +57,82 @@ hr{
   font-size: 60%;
   margin-left: 200px;
 }
+#stavoklis{
+  color:black;
+  font-size: 60%;
+  margin-right: 300px;
+}
+#pien_dat{
+  color:black;
+  font-size: 60%;
+  margin-left: 350px;
+}
 
-
-
+#cenas{
+  text-align: center;
+  font-size: 60%;
+}
+#detalas{
+  text-align: left;
+  font-size: 60%;
+}
+#summa{
+  text-align: right;
+  font-size: 60%;
+}
+#piezimes{
+  color:black;
+  font-size: 60%;
+  padding-top: 45px;
+}
+#serv_kom{
+  color:black;
+  font-size: 60%;
+  margin-right:330px;
+}
+#bbk{
+  color:black;
+  font-size: 60%;
+  text-align: left;
+  margin-left:450px;
+  margin-right: -20px;
+}
+#pbq2{ /*sviitrkods*/
+  color:black;
+  margin-left: 230px;
+  line-height: -1px;
+  font-size: 80%;
+}
+#noteikumi{
+  color:black;
+  font-size: 60%;
+  margin-right:130px;
+}
+#pqr{ /*QR kods*/
+  color:black;
+  text-align: right;
+  line-height: -1px;
+  font-size: 50%;
+}
+#piekrisana{
+  color:black;
+  font-size: 60%;
+}
+#atd_dat{
+  color:black;
+  font-size: 60%;
+  margin-left: 380px;
+}
+#paraksts{
+  color:black;
+  font-size: 60%;
+}
+#nor{
+  color:black;
+  font-size: 60%;
+  text-align: center;
+  padding-bottom: -20px;
+}
 
 /*paraugi*/
 h1 {
